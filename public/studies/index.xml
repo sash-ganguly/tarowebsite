@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studies on Taro Studio</title>
+    <link>http://tarostudio.co.uk/studies/</link>
+    <description>Recent content in Studies on Taro Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://tarostudio.co.uk/studies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Process of Post Occupancy Evaluation in Holyrood Student Accomodation</title>
+      <link>http://tarostudio.co.uk/studies/mynewblog/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/studies/mynewblog/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

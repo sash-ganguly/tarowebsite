@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taro Studio</title>
+    <link>http://tarostudio.co.uk/</link>
+    <description>Recent content on Taro Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://tarostudio.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal Comfort Modelling in Student Accomodation</title>
+      <link>http://tarostudio.co.uk/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work1/</guid>
+      <description>&lt;p&gt;To test ComCon smart monitor system and build personal comfort model in 10 rooms in Holyrood Student Accomodation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr Environment - environment education app</title>
+      <link>http://tarostudio.co.uk/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work2/</guid>
+      <description>&lt;p&gt;Project start: 1th August 2018
+Project status: Ongoing
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>EdenApp - Environment Analysis Tools</title>
+      <link>http://tarostudio.co.uk/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work4/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Taro Weather App</title>
+      <link>http://tarostudio.co.uk/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work3/</guid>
+      <description>&lt;p&gt;Next generation of weather app which teach you how to wear&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ComCon - distributed monitor system</title>
+      <link>http://tarostudio.co.uk/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work5/</guid>
+      <description>&lt;p&gt;The sensor system could easily measure air temperature, relative humidity, radient temprature, air velocity, co2, VoC, PM2.5, Illuminance etc. academic level accuracy and low cost. The sensor rules by ISO 7730 and could be used in Indoor Air Quality test.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital app in care home in Edinburgh, UK</title>
+      <link>http://tarostudio.co.uk/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work6/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>low cost Directional Hot wire anemometer</title>
+      <link>http://tarostudio.co.uk/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/portfolio/work7/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Process of Post Occupancy Evaluation in Holyrood Student Accomodation</title>
+      <link>http://tarostudio.co.uk/studies/mynewblog/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://tarostudio.co.uk/studies/mynewblog/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
